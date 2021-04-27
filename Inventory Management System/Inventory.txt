@@ -1,0 +1,10 @@
+Item ID	Item Name	Brand	Category	Unit Price	Quantity	
+AU1006	SRS-XB10 BLUETOOTH Speaker	Sony	Audio	RM164	100	
+DP1007	ROG Swift PG27AQ IPS Gaming Monitor	Asus	Display	RM3847	35	
+KB1008	Apex 350 Mechanical Keyboard	SteelSeries	Keyboard	RM420	67	
+LP1009	Legion Y520	Lenovo	Laptop	RM4120	99	
+MS1010	Mamba Gaming Mice	Razer	Mouse	RM350	89	
+SP1003	Galaxy J3 Pro	Samsung	Smartphone	RM600	10	
+SP1005	IPhone X	Apple	Smartphone	RM6000	40	
+ST1011	WD SATA HDD 2TB	Western Digital	Storage	RM379	200	
+ST1012	Turbo 3.0 USB Flashdrive 16Gb	SanDisk	Storage	RM26	890	
